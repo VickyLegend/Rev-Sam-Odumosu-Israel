@@ -87,7 +87,7 @@ export default function HeroSection() {
           <div className="absolute inset-0 bg-brand-gold/30 blur-3xl rounded-full scale-75 pointer-events-none"></div>
           
           <img 
-            src="/images/rev-sam.jpg" 
+            src="/images/Rev. Sam.png" 
             alt="Rev. Sam Odumosu-Israel" 
             className="w-full max-w-[280px] sm:max-w-sm lg:max-w-md aspect-[3/4] object-cover rounded-[2rem] border-4 border-brand-gold/80 shadow-[0_0_50px_rgba(201,169,75,0.3)] relative z-10"
           />

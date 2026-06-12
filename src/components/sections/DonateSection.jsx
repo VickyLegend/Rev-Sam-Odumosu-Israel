@@ -54,7 +54,7 @@ export default function DonateSection() {
               </div>
             </div>
             
-            <Button href="https://buymeacoffee.com/samodumosuisrael" size="lg" className="w-full sm:w-auto">
+            <Button href="https://buymeacoffee.com/samodumosuisrael/membership" size="lg" className="w-full sm:w-auto">
                Sow a Seed
             </Button>
           </motion.div>
