@@ -86,7 +86,7 @@ export const donateOptions = [
     id: "bank",
     title: "Bank Transfer",
     icon: "🏦",
-    description: "Direct bank transfer within Nigeria. Bank: Zenith Bank, Account Name: Sam Odumosu-Israel Ministries",
+    description: "Direct bank transfer within Nigeria. Bank: UBA Bank, Account Name: Sam Odumosu-Israel Ministries",
     cta: "View Account Number",
     accNum: "1012345678",
     link: "#"
@@ -101,10 +101,10 @@ export const donateOptions = [
   },
   {
     id: "opay",
-    title: "Opay / PalmPay",
+    title: "Flutter",
     icon: "📱",
-    description: "Quick and easy mobile transfers using Opay or PalmPay networks.",
-    cta: "Send via Opay",
+    description: "Quick and easy mobile transfers using Flutter networks.",
+    cta: "Send via flutter",
     link: "#"
   }
 ];
@@ -137,7 +137,7 @@ export const footerLinks = {
 
 export const contactInfo = {
   phone: "+234 803 576 0275",
-  email: "samodusmosu-israel@gmail.com",
+  email: "prayerdistrict@gmail.com",
   address: "War Room Headquarters, Lagos, Nigeria",
   socials: {
     youtube: "https://www.youtube.com/@revsamodumosuisreal",
@@ -156,21 +156,21 @@ export const testimoniesData = [
     name: "Sister Grace S.",
     category: "Healing",
     excerpt: "For 5 years, I suffered from unexplained migraines. During the midnight prayer, Rev declared healing over the head. I felt a cold sensation and since that night, no more pain!",
-    date: "October 12, 2023"
+    date: "Febuary 20, 2026"
   },
   {
     id: 2,
     name: "Brother David O.",
     category: "Financial",
     excerpt: "My business was on the verge of bankruptcy. I sowed a seed as instructed and within 48 hours, a contract I bid for 8 months ago was awarded to me miraculously.",
-    date: "November 5, 2023"
+    date: "April 5, 2026"
   },
   {
     id: 3,
     name: "Anonymous",
     category: "Deliverance",
     excerpt: "I used to have terrible nightmares of being chased by masquerades. the 14-day dangerous prayers manual broke that cycle. Now I sleep like a baby.",
-    date: "January 18, 2024"
+    date: "May 30, 2026"
   }
 ];
 

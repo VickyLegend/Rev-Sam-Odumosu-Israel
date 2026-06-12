@@ -69,6 +69,7 @@ export default function Contact() {
                       <option value="general">General Inquiry</option>
                       <option value="invitation">Ministry Invitation</option>
                       <option value="partnership">Partnership</option>
+                      <option value="support">Relationship Matters</option>
                       <option value="support">Technical Support</option>
                     </select>
                   </div>
