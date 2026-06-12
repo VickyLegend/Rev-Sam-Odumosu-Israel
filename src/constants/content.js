@@ -177,31 +177,31 @@ export const testimoniesData = [
 export const videosData = [
   {
     id: "video1",
-    title: "1 Hour Violent Midnight Prayers",
+    title: "Invoking the blood of Jesus against every strong man",
     category: "Prayers",
-    description: "Pray these prayers when you want sudden answers. Engage your spirit.",
-    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    description: "Powerful Prayers to Stop Witchcraft Attacks and Break Bewitchment | Invoking the Blood of Jesus Against Every Demonic Strongman",
+    embedUrl: "https://www.youtube.com/embed/2FLOf2XtYDo&t=2155s"
   },
   {
     id: "video2",
-    title: "Understanding Dream Symbols",
+    title: "Arise O Lord and Wage War for My Freedom | Powerful Deliverance Prayer",
     category: "Teachings",
-    description: "Stop ignoring your dreams. Learn what God is showing you in the night.",
-    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    description: "Are you facing battles that refuse to end? Does it feel like invisible resistance is fighting your progress, peace, and purpose? This is not the season to retreat. This is the season to call on the Lord to arise.",
+    embedUrl: "https://www.youtube.com/embed/iTP660L9a3E"
   },
   {
     id: "video3",
-    title: "Breaking Generational Curses",
+    title: "Warning. 5 Ways Witches Use Your FEET Against You",
     category: "Prayers",
-    description: "A profound teaching and prayer session on destroying ancestral limitations.",
-    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    description: "Discover the shocking truth behind how witches and spiritual forces use people's feet to manipulate and.......",
+    embedUrl: "https://www.youtube.com/embed/UzO80bzYXVM"
   },
   {
     id: "video4",
-    title: "Testimony: 10 Years Barrenness Broken",
+    title: "O LORD, LET MY LONG WAITING COME TO AN END || ENOUGH IS ENOUGH || NO MORE WAITING",
     category: "Testimonies",
-    description: "Watch how God moved mightily to bless this family after a decade of waiting.",
-    embedUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    description: "🔥 HOW LONG, O LORD? 🔥 MY WAITING MUST END!",
+    embedUrl: "https://www.youtube.com/embed/YNg727znqV0"
   }
 ];
 
