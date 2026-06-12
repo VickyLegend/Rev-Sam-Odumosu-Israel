@@ -185,7 +185,7 @@ export const videosData = [
   {
     id: "video2",
     title: "Arise O Lord and Wage War for My Freedom | Powerful Deliverance Prayer",
-    category: "Teachings",
+    category: "Teachingsalright",
     description: "Are you facing battles that refuse to end? Does it feel like invisible resistance is fighting your progress, peace, and purpose? This is not the season to retreat. This is the season to call on the Lord to arise.",
     embedUrl: "https://www.youtube.com/embed/iTP660L9a3E"
   },
