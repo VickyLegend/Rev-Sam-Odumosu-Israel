@@ -32,7 +32,7 @@ export default function FinalCTASection() {
             This Is Your Family
           </h2>
           
-          <Button href="https://www.youtube.com/@revsamodumosuisreal" size="lg" className="text-xl px-12 py-5 shadow-[0_0_30px_rgba(201,169,75,0.3)]">
+          <Button href="https://www.youtube.com/@revsamodumosuisrael/membership" size="lg" className="text-xl px-12 py-5 shadow-[0_0_30px_rgba(201,169,75,0.3)]">
             Become a Member
           </Button>
         </motion.div>

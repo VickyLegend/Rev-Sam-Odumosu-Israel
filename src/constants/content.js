@@ -79,7 +79,7 @@ export const donateOptions = [
     title: "Buy Me a Coffee",
     icon: "☕",
     description: "Support our ministry securely through Buy Me a Coffee using your debit/credit card.",
-    cta: "Donate via Card",
+    cta: "Donate",
     link: "https://buymeacoffee.com/samodumosuisrael"
   },
   {

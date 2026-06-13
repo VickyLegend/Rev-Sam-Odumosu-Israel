@@ -22,7 +22,7 @@ export default function AboutPreviewSection() {
             <div className="relative">
               <div className="absolute inset-0 bg-brand-gold/20 blur-2xl rounded-full"></div>
               <img 
-                src="/images/rev-sam.jpg" 
+                src="/images/Rev. Sam.png" 
                 alt="Rev Sam Odumosu-Israel" 
                 className="relative z-10 w-full max-w-sm rounded-[2rem] border-4 border-brand-gold/50 shadow-2xl"
               />
