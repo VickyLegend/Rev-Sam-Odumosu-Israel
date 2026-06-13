@@ -230,7 +230,7 @@ export const devotionalsData = [
 ];
 
 export const aboutStats = [
-  { label: "Warriors Equipped", value: "20,000+" },
-  { label: "Nations Reached", value: "40+" },
-  { label: "Years in Ministry", value: "14+" }
+  /*{ label: "Warriors Equipped", value: "2,000+" },
+  { label: "Nations Reached", value: "40+" },*/
+  { label: "Years in Ministry", value: "15+" }
 ];
